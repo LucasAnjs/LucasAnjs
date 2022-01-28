@@ -1,6 +1,6 @@
 ### Hello World!
 ##
-My name is Lucas, i am 21 years old, am student of Software Engineer, i love technology, entrepeneurship and are open for networking or talking.
+My name is Lucas, i am 21 years old, am student of Software Engineer, i love technology, entrepeneurship and are open for networking or coding.
 
 - 🔭 I’m currently working with back-end
 - 🌱 I’m currently learning PHP and Javascript
