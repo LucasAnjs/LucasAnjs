@@ -2,13 +2,13 @@
 ##
 My name is Lucas, i am 21 years old, am student of Software Engineer, i love technology, entrepeneurship and are open for networking or coding.
 
-- 🔭 I’m currently working with back-end
-- 🌱 I’m currently learning PHP and Javascript
+- 🔭 Currently working with back-end
+- 🌱 Today i'm learning PHP and Javascript
 - ⚡ I like video games, music, travels and coffe!
 
 You can find me here: 
 
-<a href="https://www.linkedin.com/in/lucasanjs/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643332290~hmac=cf50e08b903a68dabc65750ad09d29fb" style="width: 30px; height: 30px; display: inline;"></a>
+<a href="https://www.linkedin.com/in/lucasanjs/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655129013~hmac=e718c3e833db93f8511ddd618ce019f1" style="width: 30px; height: 30px; display: inline;"></a>
 
 ##
 
