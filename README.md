@@ -19,5 +19,6 @@ Languages and technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="width: 50px; height: 50px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" tyle="width: 50px; height: 50px;" />
  </div>
 
