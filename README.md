@@ -1,4 +1,4 @@
 ### Hello World!
 ##
-IT Professional, love programming, entrepreneurship and innovation. Skills with Operational Systems, hardware, software and studying software engineering, open to new experiences and knowledge. Actually work with Full Stack Development and want to improve my knowledge of Javascript and their most modern technologies.
+IT Professional, passionate for programming, entrepreneurship and innovation. Skills with Operational Systems, hardware, software development for web and software engineering student. Open to new experiences and knowledges. Actually working with Full Stack Development.
 
